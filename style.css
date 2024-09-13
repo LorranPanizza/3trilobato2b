@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cabecalho{
+    background: linear-gradient(to right, #b03838,#d3e41f,#fff);
+}
+.corpo{
+background-color: aliceblue;
+}
