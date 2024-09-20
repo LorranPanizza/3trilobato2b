@@ -66,6 +66,8 @@ header {
 
 
 .dropbtn {
+    top: 10px;
+    left: 10px;
     background-color: #ff0080;
     color: white;
     padding: 15px;
@@ -80,7 +82,7 @@ header {
     background-color: #ff3399;
 }
 
-/* Estilo para a lista suspensa */
+
 .dropdown-content {
     display: none;
     position: absolute;
@@ -106,12 +108,3 @@ header {
 .dropdown:hover .dropdown-content {
     display: block;
 }
-
-@keyframes shine {
-    0% {
-        background-image: linear-gradient(90deg, #000, #000);
-    }
-    100% {
-        background-image: linear-gradient(90deg, #000, #ff0080, #0000ff, #00ff00, #000);
-        background-size: 200% 200%;
-        background-position: 100%;}
