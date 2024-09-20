@@ -27,6 +27,7 @@ body {
 header {
     display: flex;
     justify-content: center;
+    text-align: left;
     height: 100vh;
     background-color: #000;
     overflow: hidden;
