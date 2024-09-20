@@ -68,7 +68,7 @@ header {
     border-radius: 5px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     position: absolute;
-    top: 100%; /* Posiciona logo abaixo do botão */
+    top: 50px;
     left: 0;
     z-index: 10;
 }
