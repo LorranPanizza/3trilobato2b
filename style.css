@@ -80,7 +80,7 @@ header {
     color: #ff0080;
 }
 
-/* Mostrar o menu ao passar o mouse sobre o botão */
+
 .dropdown:hover .menu-list {
     display: block;
 }
